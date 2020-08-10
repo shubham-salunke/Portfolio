@@ -1,6 +1,6 @@
 # SHUBHAM SALUNKE
 
-[PORTFOLIO](shubham-salunke.co)
+[PORTFOLIO](https://shubham-salunke.co)
 
 A mechanical engineer with interest in coding.
 
